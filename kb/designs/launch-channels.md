@@ -12,6 +12,8 @@ links:
 - launch-user-types
 - launch-staging
 ---
+> Historical: March 2026 launch-plan material; retained for project history, not current launch guidance.
+
 
 # Channels & Content Types
 

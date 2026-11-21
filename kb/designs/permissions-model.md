@@ -13,6 +13,8 @@ links:
 - roadmap
 - bhag-self-configuring-knowledge-infrastructure
 ---
+> Historical draft: superseded by ADR-0043 and [[map-who-can-do-what]]; consult those for the current authorization model.
+
 
 # Design Sketch: Three-Layer Permissions Model
 

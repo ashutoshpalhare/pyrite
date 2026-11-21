@@ -15,6 +15,8 @@ links:
 - per-kb-permissions
 - personal-kb-repo-backing
 ---
+> Historical: March 2026 launch-plan material; retained for project history, not current launch guidance.
+
 
 # Web Presence, Extension Registry & Community
 

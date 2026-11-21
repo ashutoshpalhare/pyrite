@@ -16,6 +16,8 @@ links:
 - container-deployment
 - demo-site-deployment
 ---
+> Historical: March 2026 launch-plan material; retained for project history, not current launch guidance.
+
 
 # Staging & Sequencing (four waves, ~2 pieces/week within each)
 

@@ -6,6 +6,8 @@ tags:
 - launch
 - mcp
 ---
+> Historical: March 2026 launch-submission draft; retained for project history, not current submission guidance.
+
 
 > The text for submitting Pyrite to MCP server directories. Moved here from the
 > repository root (#585); the launch checklists in [[launch-channels]] and

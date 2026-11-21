@@ -5,6 +5,8 @@ title: "SSR Public Site: kb.pyrite.wiki via route groups"
 tags: [web, seo, publishing, architecture]
 date: "2026-03-24"
 ---
+> Historical: the built-in public site was removed in #953 (October 2026); see [[alpha-supported-surface]] for the current supported-surface decision.
+
 
 > The built-in public site (`/site`, ADR-0023) was removed by #953 (2026-10). Kept as history.
 
